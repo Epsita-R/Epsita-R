@@ -1,4 +1,4 @@
-# Hi there, my name is Epsita Rajesh 👋
+# Hi there, welcome to my Hub!👋
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/yourprofile/)](www.linkedin.com/in/epsita-rajesh)
 
@@ -9,7 +9,7 @@
 ## 🌟 About Me
 
 
-I’m Epsita Rajesh, with a strong foundation in Computer Applications and a Master’s in Artificial Intelligence & Machine Learning. My career spans roles in both sales and data science, highlighting my ability to drive results through data-driven strategies. As a Sales Team Lead and Senior Business Development Associate at StartupsHive, I led a team and provided key funding solutions for startups, while my tenure as an Associate Sales Manager at BrightChamps saw me exceed revenue targets and streamline sales processes across international markets.
+I’m Epsita R, cwith a strong foundation in Computer Applications and a Master’s in Artificial Intelligence & Machine Learning. My career spans roles in both sales and data science, highlighting my ability to drive results through data-driven strategies. As a Sales Team Lead and Senior Business Development Associate at StartupsHive, I led a team and provided key funding solutions for startups, while my tenure as an Associate Sales Manager at BrightChamps saw me exceed revenue targets and streamline sales processes across international markets.
 
 In the technical realm, I have hands-on experience as a Data Science Intern at Prodigy InfoTech, where I applied machine learning techniques, conducted data cleaning, performed statistical analysis, and created impactful visualizations using Python, Power BI, and Tableau. My skills include programming languages (Java, Python, SQL), web technologies (HTML, CSS, Power BI), and developer tools (Jupyter, Visual Studio), along with database and cloud technologies (MySQL Workbench). I am particularly interested in Data Analysis, Business Analysis, Product Management, and the innovative applications of Large Language Models (LLMs). I look forward to connecting with professionals and exploring new opportunities in these exciting fields.
 
